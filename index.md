@@ -1,6 +1,6 @@
 
 Hello
-I am first year PhD student in Electrical Engineering at [Indian Institute of Technology, Delhi] (http://www.iitd.ac.in/). I am working with Prof. Smruti R Sarangi and I am a part of Shrishti Research Group.
+I am first year PhD student in Electrical Engineering at [Indian Institute of Technology, Delhi] (http://www.iitd.ac.in/). I am working with [Prof. Smruti R Sarangi] (http://www.cse.iitd.ac.in/~srsarangi/) and I am a part of Shrishti Research Group.
 
 You can use the [editor on GitHub](https://github.com/nivi1501/nivi1501.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
