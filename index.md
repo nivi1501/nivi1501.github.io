@@ -2,8 +2,15 @@
 
 You can use the [editor on GitHub](https://github.com/nivi1501/nivi1501.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub will automatically rebuild the pages in your site, from the content in your Markdown files, that means - your .md file gets converted to html.
 
+# How to add content to this blog?
+
+1. Create a <pagename>.md file with the contents that you want in markdown format  
+2. Now, the html page that will be created using the file created in step 1 will be <your_repository_name.github.io/pagename.html>
+3. You can interlink the pages. See this example in markdown. Here ```[link](https://nivi1501.github.io/pagename.html)```
+
+# Markdown Guide Below
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -25,12 +32,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nivi1501/nivi1501.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
