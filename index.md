@@ -1,5 +1,8 @@
 ## Nivedita Shrivastava
 
+Hello
+I am first year PhD student in Electrical Engineering at Indian institute of Technology, Delhi. I am working with Prof. Smruti R Sarangi and I am a part of Shrishti Research Group.
+
 You can use the [editor on GitHub](https://github.com/nivi1501/nivi1501.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub will automatically rebuild the pages in your site, from the content in your Markdown files, that means - your .md file gets converted to html.
