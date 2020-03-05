@@ -43,6 +43,14 @@ Cadence
 MATLAB
 Vivado HLS
 
+# Publications
+1. [Nivedita Shrivastava, B. Acharya, "Lightweight Hardware Architecture for Eight-Sided Fortress Cipher in FPGA" in Advances in Data and Information Sciences 2020 (pp. 179-190). Springer, Singapore.] (https://link.springer.com/chapter/10.1007/978-981-15-0694-9_18)
+
+2. [Nivedita Shrivastava and Bibhudendra Acharya "FPGA Implementation of RECTANGLE Block Cipher Architectures" in International Journal of Innovative Technology and Exploring Engineering (IJITEE)
+ISSN: 2278-3075, Volume-8 Issue-10, August 2019] (https://pdfs.semanticscholar.org/4b83/33663ad4a7001507c6b2e65887b6a91dae92.pdf)
+
+
+
 # How to add content to this blog?
 
 1. Create a <pagename>.md file with the contents that you want in markdown format  
