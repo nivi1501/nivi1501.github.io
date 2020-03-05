@@ -3,31 +3,31 @@
 Hello
 I am first year PhD student in Electrical Engineering at Indian institute of Technology, Delhi. I am working with Prof. Smruti R Sarangi and I am a part of Shrishti Research Group.
 
-#Education
-1. Bachelor of engineering in Electronics &  Communication Engineering from Jabalpur engineering college, Japalpur, India
-2. Master of technology in VLSI & Embedded System from National institute of technology, Raipur, India.    
-3. PhD in Electrical Engineering from IIT Delhi, India.
+# Education
+1. PhD in Electrical Engineering from IIT Delhi, India.
+2. Master of Eechnology in VLSI & Embedded System (Gold Medalist) from National Institute of Technology, Raipur, India. 
+3. Bachelor of Engineering in Electronics &  Communication Engineering (Hons) from Jabalpur engineering college, Japalpur, India
 
-#Projects
-1. Design of optimized convolution network architecture using Vivado HLS
+# Projects
+## Design of optimized convolution network architecture using Vivado HLS
 
-  Implementation of Optimized Hardware Architecture of Lightweight Block Ciphers in FPGA                                                                                   
+  ## Implementation of Optimized Hardware Architecture of Lightweight Block Ciphers in FPGA                                                                                   
     • Successfully designed and implemented various optimized hardware architectures of RECTANGLE, PRESENT, ESF and QTL lightweight ciphers in FPGA. Implemented BRAM based design and reduced datapath designs as well. Used Xilinx ISE design suite 13.6 with HDL language as Verilog for implementation. Performed power analysis using XPower analyzer. Implemented and evaluated designs in various platforms like Virtex-5, Virtex-4, Spartan-6, Spartan-3E on the basis of resource utilization, power consumption and performance.  
     
-   M.Tech Course Projects:
-      1. Design and Implementation of Basic Processor Architecture using Verilog	HDL				                                                                         
+   ## M.Tech Course Projects:
+      ### Design and Implementation of Basic Processor Architecture using Verilog	HDL				                                                                         
     • Designed and implemented basic computer processor architecture along with instruction set using Verilog.
-      2. Implementation of Circular CORDIC Architecture using Verilog HDL                                                                               
+      ### Implementation of Circular CORDIC Architecture using Verilog HDL                                                                               
     • CORDIC uses simple shift-add operations for several computing tasks such as the calculation of trigonometric, square-root calculation
     • Implemented both pipelined and non-pipelined architecture for rotation mode and vectoring mode CORDIC using Verilog
-3. Implementation of Adder Circuit Using Tunable Body Bias for operation in Super-threshold and Sub-threshold   Region in CADENCE        
+### Implementation of Adder Circuit Using Tunable Body Bias for operation in Super-threshold and Sub-threshold   Region in CADENCE        
     • Implemented Mirror Adder circuit in Cadence, Analyzed PDP variation in super-threshold and sub-threshold region  through Virtuoso 
-4.  Implementation and Analysis of Various Body Bias Techniques under NTV CMOS Circuits in CADENCE                                                                                                              
+###  Implementation and Analysis of Various Body Bias Techniques under NTV CMOS Circuits in CADENCE                                                                                                              
     • Implemented forward body bias and zero body bias technique for Mirror adder circuit in cadence to enhance performance of the circuit
     
-    B.Tech Project:
+   ## B.Tech Project:
     
-   Implementation of Speaker Recognition System in MATLAB                                                                                                                                                             
+   ### Implementation of Speaker Recognition System in MATLAB                                                                                                                                                             
     • Verifies if the input voice sample is in the system database or not
     • Implemented in MATLAB using Voice box Toolkit
     
