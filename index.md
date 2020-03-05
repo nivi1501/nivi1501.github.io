@@ -1,6 +1,6 @@
 
 Hello
-I am first year PhD student in Electrical Engineering at [Indian Institute of Technology, Delhi] (http://www.iitd.ac.in/). I am working with [Prof. Smruti R Sarangi] (http://www.cse.iitd.ac.in/~srsarangi/) and I am a part of Shrishti Research Group.
+I am first year PhD student in Electrical Engineering at [Indian Institute of Technology, Delhi](http://www.iitd.ac.in/). I am working with [Prof. Smruti R Sarangi](http://www.cse.iitd.ac.in/~srsarangi/) and I am a part of Shrishti Research Group.
 
 ## Education
 1. PhD in Electrical Engineering from IIT Delhi, India (undergoing).
@@ -40,10 +40,10 @@ MATLAB
 Vivado HLS
 
 ## Publications
-1. [Nivedita Shrivastava, B. Acharya, "Lightweight Hardware Architecture for Eight-Sided Fortress Cipher in FPGA" in Advances in Data and Information Sciences 2020 (pp. 179-190). Springer, Singapore.] (https://link.springer.com/chapter/10.1007/978-981-15-0694-9_18)
+1. [Nivedita Shrivastava, B. Acharya, "Lightweight Hardware Architecture for Eight-Sided Fortress Cipher in FPGA" in Advances in Data and Information Sciences 2020 (pp. 179-190). Springer, Singapore.](https://link.springer.com/chapter/10.1007/978-981-15-0694-9_18)
 
 2. [Nivedita Shrivastava and Bibhudendra Acharya "FPGA Implementation of RECTANGLE Block Cipher Architectures" in International Journal of Innovative Technology and Exploring Engineering (IJITEE)
-ISSN: 2278-3075, Volume-8 Issue-10, August 2019] (https://pdfs.semanticscholar.org/4b83/33663ad4a7001507c6b2e65887b6a91dae92.pdf)
+ISSN: 2278-3075, Volume-8 Issue-10, August 2019](https://pdfs.semanticscholar.org/4b83/33663ad4a7001507c6b2e65887b6a91dae92.pdf)
 
 3. Nivedita Shrivastava, Pulkit Singh,and Bibhudendra Acharya, “A Novel Hardware Architecture for RECTANGLE block cipher in FPGA” in 5th International Conference on Nanoelectronics, Circuits and Communication systems (NCCS), 2018.
 
