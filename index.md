@@ -9,6 +9,7 @@ I am first year PhD student in Electrical Engineering at [Indian Institute of Te
 
 ## Projects
 **Design of optimized convolution network architecture using Vivado HLS**
+- Successfully implemented parallel and pipelined architecture for performing convolution operation using Vivado HLS. Designed, implemnted and compared three different architectures: Basic, Parallel and pipelined.  
 
 **Implementation of Optimized Hardware Architecture of Lightweight Block Ciphers in FPGA**                                                                                   
    • Successfully designed and implemented various optimized hardware architectures of RECTANGLE, PRESENT, ESF and QTL lightweight ciphers in FPGA. Implemented BRAM based design and reduced datapath designs as well. Used Xilinx ISE design suite 13.6 with HDL language as Verilog for implementation. Performed power analysis using XPower analyzer. Implemented and evaluated designs in various platforms like Virtex-5, Virtex-4, Spartan-6, Spartan-3E on the basis of resource utilization, power consumption and performance.  
@@ -47,9 +48,9 @@ ISSN: 2278-3075, Volume-8 Issue-10, August 2019](https://pdfs.semanticscholar.or
 
 3. Nivedita Shrivastava, Pulkit Singh,and Bibhudendra Acharya, “A Novel Hardware Architecture for RECTANGLE block cipher in FPGA” in 5th International Conference on Nanoelectronics, Circuits and Communication systems (NCCS), 2018.
 
-4. Nivedita Shrivastava, B. Acharya, “VLSI implementation of ESF and QTL cipher” presented in 4th international Conference on microelectronics, Circuits and Communication systems (MCCS), 2019
+4. Nivedita Shrivastava, B. Acharya, “VLSI implementation of ESF and QTL cipher” in 4th International Conference on Microelectronics, Circuits and Communication Systems (MCCS), 2019
 
-5. Nivedita Shrivastava, Pulkit Singh,and Bibhudendra Acharya, "Efficient hardware implementations of QTL cipher for RFID applications" in  International Jouranal of High Performance Systems Architecture, 2019. 
+5. Nivedita Shrivastava, Pulkit Singh,and Bibhudendra Acharya, "Efficient hardware implementations of QTL cipher for RFID applications" in International Journal of High Performance Systems Architecture, 2019. 
 
 ## References
 1. Dr. Smruti R Sarangi
