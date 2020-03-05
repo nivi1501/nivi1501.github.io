@@ -1,6 +1,6 @@
 
 Hello
-I am first year PhD student in Electrical Engineering at Indian institute of Technology, Delhi. I am working with Prof. Smruti R Sarangi and I am a part of Shrishti Research Group.
+I am first year PhD student in Electrical Engineering at [Indian Institute of Technology, Delhi] (http://www.iitd.ac.in/). I am working with [Prof. Smruti R Sarangi] (http://www.cse.iitd.ac.in/~srsarangi/) and I am a part of Shrishti Research Group.
 
 ## Education
 1. PhD in Electrical Engineering from IIT Delhi, India (undergoing).
