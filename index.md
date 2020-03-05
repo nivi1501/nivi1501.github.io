@@ -5,6 +5,11 @@ I am first year PhD student in Electrical Engineering at Indian institute of Tec
 
 You can use the [editor on GitHub](https://github.com/nivi1501/nivi1501.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+1. [CV](https://nivi1501.github.io/cv.html)  
+2. [Publications](https://nivi1501.github.io/publications.html)  
+3. [Projects](https://nivi1501.github.io/projects.html)  
+4. [Home](https://nivi1501.github.io/index.html)  
+
 Whenever you commit to this repository, GitHub will automatically rebuild the pages in your site, from the content in your Markdown files, that means - your .md file gets converted to html.
 
 # How to add content to this blog?

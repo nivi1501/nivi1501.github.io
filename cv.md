@@ -1,4 +1,4 @@
-# second example page
+# this is the cv page
 
 1. [CV](https://nivi1501.github.io/cv.html)  
 2. [Publications](https://nivi1501.github.io/publications.html)  
