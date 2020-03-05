@@ -7,7 +7,8 @@ You can use the [editor on GitHub](https://github.com/nivi1501/nivi1501.github.i
 
 1. [CV](https://nivi1501.github.io/cv.html)  
 2. [Publications](https://nivi1501.github.io/publications.html)  
-3. [Projects](https://nivi1501.github.io/projects.html)  
+
+#Projects
   1. Implementation of Optimized Hardware Architecture of Lightweight Block Ciphers in FPGA                                                                                   
     • Successfully designed and implemented various optimized hardware architectures of RECTANGLE, PRESENT, ESF and QTL lightweight ciphers in FPGA. Implemented BRAM based design and reduced datapath designs as well. Used Xilinx ISE design suite 13.6 with HDL language as Verilog for implementation. Performed power analysis using XPower analyzer. Implemented and evaluated designs in various platforms like Virtex-5, Virtex-4, Spartan-6, Spartan-3E on the basis of resource utilization, power consumption and performance.  
     
@@ -42,6 +43,11 @@ Xilinx ISE
 Cadence 
 MATLAB
 Vivado HLS
+
+#Education
+1. Bachelor of engineering in Electronics &  Communication Engineering from Jabalpur engineering college, Japalpur, India
+2. Master of technology in VLSI & Embedded System from National institute of technology, Raipur, India.    
+3. PhD in Electrical Engineering from IIT Delhi, India.
 
 # Publications
 1. [Nivedita Shrivastava, B. Acharya, "Lightweight Hardware Architecture for Eight-Sided Fortress Cipher in FPGA" in Advances in Data and Information Sciences 2020 (pp. 179-190). Springer, Singapore.] (https://link.springer.com/chapter/10.1007/978-981-15-0694-9_18)
