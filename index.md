@@ -5,7 +5,7 @@ I am first year PhD student in Electrical Engineering at [Indian Institute of Te
 ## Education
 1. PhD in Electrical Engineering from IIT Delhi, India (undergoing).
 2. Master of Eechnology in VLSI & Embedded System (Gold Medalist, 2019) from National Institute of Technology, Raipur, India. 
-3. Bachelor of Engineering in Electronics &  Communication Engineering (Hons) from Jabalpur engineering college, Japalpur, India.
+3. Bachelor of Engineering in Electronics &  Communication Engineering (Hons) from Jabalpur Engineering College, Japalpur, MP, India.
 
 ## Projects
 **Design of optimized convolution network architecture using Vivado HLS**
@@ -51,6 +51,18 @@ ISSN: 2278-3075, Volume-8 Issue-10, August 2019](https://pdfs.semanticscholar.or
 
 5. Nivedita Shrivastava, Pulkit Singh,and Bibhudendra Acharya, "Efficient hardware implementations of QTL cipher for RFID applications" in  International Jouranal of High Performance Systems Architecture, 2019. 
 
+## References
+1. Dr. Smruti R Sarangi
+USHA HASTEER chair Professor,
+Computer science and Engg.
+IIT Delhi, India
+
+2. Dr. B. Acharya
+Assistant Professor
+Electronics and Communication Engineering
+NIT Raipur, India
+9907445868
+bacharya.etc@nitrr.ac.in
 
 You can use the [editor on GitHub](https://github.com/nivi1501/nivi1501.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
