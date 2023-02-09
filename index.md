@@ -1,10 +1,10 @@
 
 Hello
-I am first year PhD student in Electrical Engineering at [Indian Institute of Technology, Delhi](http://www.iitd.ac.in/). I am working with [Prof. Smruti R Sarangi](http://www.cse.iitd.ac.in/~srsarangi/) and I am a part of Shrishti Research Group.
+I am fourth year PhD student in Electrical Engineering at [Indian Institute of Technology, Delhi](http://www.iitd.ac.in/). I am working with [Prof. Smruti R Sarangi](http://www.cse.iitd.ac.in/~srsarangi/) and I am a part of Srishti Research Group.
 
 ## Education
 1. PhD in Electrical Engineering from IIT Delhi, India (undergoing).
-2. Master of Eechnology in VLSI & Embedded System (Gold Medalist, 2019) from National Institute of Technology, Raipur, India. 
+2. Masters of Technology in VLSI & Embedded System (Gold Medalist, 2019) from National Institute of Technology, Raipur, India. 
 3. Bachelor of Engineering in Electronics &  Communication Engineering (Hons) from Jabalpur Engineering College, Japalpur, MP, India.
 
 ## Projects
