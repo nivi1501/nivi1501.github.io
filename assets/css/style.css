@@ -242,8 +242,9 @@ span {
   left: -2em;
   position: absolute;
   text-align: center;
-  width: 20em;
+  width: 2em;
   line-height: inherit;
+  font-size: 30px;
 }
 
 
