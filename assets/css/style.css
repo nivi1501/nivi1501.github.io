@@ -238,6 +238,14 @@ list-style-position: outside;
 list-style-type: none;
 }
 
+span {
+  left: -2em;
+  position: absolute;
+  text-align: center;
+  width: 20em;
+  line-height: inherit;
+}
+
 
 
 table.tablee
