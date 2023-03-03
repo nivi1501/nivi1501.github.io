@@ -283,12 +283,22 @@ li.logo span {
   font-size: 14px;
 }
 
+/*
 .brand-logo h1 {
   font-size: inherit;
   line-height: inherit;
   margin: inherit;
   font-weight: inherit;
 }
+*/
+
+h1 {
+  font-weight: 300;
+  margin-bottom: 60px;
+  margin-top: 0;
+  padding: 30px 40px;
+}
+
 
 .container {
   width: 95%;
