@@ -235,7 +235,7 @@ margin-left: 45px;
 width: 900px;
 display: list-item;
 list-style-position: outside;
-list-style-image: "mdi-social-school small";
+list-style-type: disc;
 }
 
 
