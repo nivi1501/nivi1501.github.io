@@ -231,8 +231,6 @@ list-style-position: outside;
 table.tablee
 {
 width: 50%; 
-table-layout: fixed;
-padding: 0px 30px 0px;
 }
 
 /*
