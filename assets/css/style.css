@@ -228,6 +228,12 @@ list-style-position: outside;
   list-style-type: disc;
 }
 
+table.tablee
+{
+width: 60%; 
+table-layout: fixed;
+}
+
 ul.side-nav {
   width: 190px;
 }
