@@ -231,6 +231,7 @@ list-style-position: outside;
 table.tablee
 {
 width: 50%; 
+column-gap: 0px;
 }
 
 /*
