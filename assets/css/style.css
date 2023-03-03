@@ -222,7 +222,9 @@ dt {
 ul.mainn
 {
 margin-left: 45px;
-width: 1000px;
+width: 900px;
+display: block;
+  list-style-type: disc;
 }
 
 ul.side-nav {
