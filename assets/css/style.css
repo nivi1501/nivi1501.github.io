@@ -224,7 +224,7 @@ ul.mainn
 margin-left: 45px;
 width: 900px;
 display: list-item;
-list-style-position: inside;
+list-style-position: outside;
   list-style-type: disc;
 }
 
