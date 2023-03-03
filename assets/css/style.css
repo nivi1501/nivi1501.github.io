@@ -244,7 +244,7 @@ column-gap: 0px;
 
 .container {
         display: flex;
-        align-items: center;
+        align-items: left;
         justify-content: left
       }
       img {
