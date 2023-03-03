@@ -251,11 +251,11 @@ column-gap: 0px;
         max-width: 180px
       }
       .image {
-        flex-basis: 40%
+        flex-basis: 10%
       }
       .text {
-        font-size: 20px;
-        padding-left: 20px;
+        font-size: 10px;
+        padding-left: 10px;
       }
 
 
