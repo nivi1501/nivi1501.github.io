@@ -230,8 +230,9 @@ list-style-position: outside;
 
 table.tablee
 {
-width: 60%; 
+width: 50%; 
 table-layout: fixed;
+padding: 10px 0 12px;
 }
 
 ul.side-nav {
