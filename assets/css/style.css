@@ -219,8 +219,9 @@ dt {
   margin-left: 0.5rem;
 }
 
-main.ul,
-main.li {
+ul.main,
+li.main
+{
     padding-left: 190px;
 }
 
