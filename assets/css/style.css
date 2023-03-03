@@ -119,6 +119,12 @@
   color: #00796b;
   background-color: white;
 }
+
+#contact a:not(.btn-floating) {
+  bottom: 6px;
+  left: 20px;
+  position: relative;
+}
 /* main body */
 
 /* body-color */
