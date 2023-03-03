@@ -219,6 +219,12 @@ dt {
   margin-left: 0.5rem;
 }
 
+main.ul,
+main.li {
+    padding-left: 190px;
+}
+
+
 ul.side-nav {
   width: 190px;
 }
