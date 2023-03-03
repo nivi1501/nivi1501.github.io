@@ -232,8 +232,16 @@ table.tablee
 {
 width: 50%; 
 table-layout: fixed;
-padding: 10px 0 12px;
+padding: 0px 30px 0px;
 }
+
+/*
+    padding: 25px 50px 75px;
+        top padding is 25px
+        right and left paddings are 50px
+        bottom padding is 75px
+*/
+
 
 ul.side-nav {
   width: 190px;
