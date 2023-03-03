@@ -244,11 +244,12 @@ column-gap: 0px;
 
 .container {
         display: flex;
-        align-items: left;
+        align-items: center;
         justify-content: left
       }
       img {
-        max-width: 180px
+        max-width: 180px;
+        justify: left
       }
       .image {
         flex-basis: 1%
