@@ -327,6 +327,13 @@ ul.side-nav.fixed li.logo a {
   background-color:blue;
 }
 
+ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:active-page {
+  border: none;
+  font-weight: 200;
+  margin-left: 45px;
+}
+
+
 
 ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) a:hover {
   background-color: #fafafa;
