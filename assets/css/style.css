@@ -277,7 +277,14 @@ column-gap: 0px;
       }
 
 
+ h5{
+      margin-bottom: 0;
+    }
 
+table.mainn, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
 
 
 ul.side-nav {
