@@ -322,6 +322,12 @@ ul.side-nav.fixed li.logo a {
   line-height: 100%;
 }
 
+#nav_bar ul li a.active-page
+{
+  background-color:blue;
+}
+
+
 ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) a:hover {
   background-color: #fafafa;
   border-left: 3px solid;
