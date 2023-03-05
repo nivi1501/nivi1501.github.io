@@ -227,7 +227,7 @@ dt {
 
 ul.mainn
 {
-margin-left: 45px;
+/*margin-left: 45px;*/
 /*width: 900px;*/
 display: list-item;
 list-style-position: outside;
