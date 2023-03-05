@@ -227,7 +227,7 @@ dt {
 
 ul.mainn
 {
-/*margin-left: 45px;*/
+margin-left: 45px;
 /*width: 900px;*/
 display: list-item;
 list-style-position: outside;
@@ -507,7 +507,7 @@ small {
     margin-bottom: 20px;
   }
   .container {
-    /*margin: 0 auto;*/
+    margin: 0 auto;
   }
   nav.hide-on-large.only.trigger {
     display: block;
@@ -536,8 +536,8 @@ small {
     font-size: 14px;
   }
   h3, .container {
-   /* position: relative;
-    top: 64px; */ 
+    position: relative;
+    top: 64px;  
   }
   section#intro {
     margin-bottom: -64px;
