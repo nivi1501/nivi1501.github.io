@@ -507,7 +507,7 @@ small {
     margin-bottom: 20px;
   }
   .container {
-    margin: 0 auto;
+    margin: 0 0;
   }
   nav.hide-on-large.only.trigger {
     display: block;
